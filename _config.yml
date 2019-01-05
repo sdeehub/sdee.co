@@ -16,24 +16,26 @@ baseurl:               '/sdee.co'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  th_TH
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 io/sdee.co
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  บริษัท โซลูชั่น ดี จำกัด (Tax ID# 0105545002081)
+  328/139 ซอยสันนิบาตเทศบาล ถนนลาดพร้าว แขวงจันทรเกษม เขตจตุจักร กรุงเทพฯ 10900
+  พวกเราชื่นชอบและหลงใหลในการเขียน Writeln(Hello World!); เป็นชีวิตจิตใจ ในที่สุดได้ตัดสินใจที่จะใช้ชีวิตกันเติบโตต่อมาบนเส้นทางของการพัฒนา และ การบริการ ร่วมไปกับเทคโนโลยี IT ด้านต่างๆ ที่จะนำประโยชน์และความสุขมาสู่ทุกๆ คน อย่างยั่งยืนตลอดไป
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  บริษัท โซลูชั่น ดี จำกัด ‣ 0105545002081
+  328/139 ซอยสันนิบาตเทศบาล ถนนลาดพร้าว
+  แขวงจันทรเกษม เขตจตุจักร กรุงเทพฯ 10900
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [เทคโนโลยี, ไอที, นักพัฒนา, โปรแกรม, การใช้ชีวิต, lifestyle, technology, IT, developer, web site, application, system, network, mobile]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,15 +44,15 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                solution.dee
+  email:               team@sdee.co
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             odd_daboss
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2018. All rights reserved.
-  Open `_config.yml` to edit this text.
+  © 2019. All rights reserved.
+  Solution Dee Company Limited.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -82,15 +84,15 @@ theme_color:           rgb(25,55,71)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-google_fonts:          Roboto+Slab:400|Noto+Sans:400,400i,700,700i
+google_fonts:          "Athiti|Prompt"
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Noto Sans, Helvetica, Arial, sans-serif
+font:                  "'Athiti', sans-serif"
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
+font_heading:          "'Prompt', sans-serif"
 
 defaults:
   - scope:
