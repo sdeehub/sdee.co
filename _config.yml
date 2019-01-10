@@ -30,9 +30,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  บริษัท โซลูชั่น ดี จำกัด ‣ 0105545002081
-  328/139 ซอยสันนิบาตเทศบาล ถนนลาดพร้าว
-  แขวงจันทรเกษม เขตจตุจักร กรุงเทพฯ 10900
+  บจ. โซลูชั่น ดี • 328/139 ซอยสันนิบาตเทศบาล ถนนลาดพร้าว
+  แขวงจันทรเกษม เขตจตุจักร กรุงเทพฯ 10900 • Tax ID: 0105545002081
 
 # A list of keywords for your blog
 keywords:              [เทคโนโลยี, ไอที, นักพัฒนา, โปรแกรม, การใช้ชีวิต, lifestyle, technology, IT, developer, web site, application, system, network, mobile]
@@ -88,11 +87,11 @@ google_fonts:          "Athiti|Prompt"
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  "'Athiti', sans-serif"
+font:                  "Athiti, sans-serif"
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          "'Prompt', sans-serif"
+font_heading:          "Prompt, sans-serif"
 
 defaults:
   - scope:
