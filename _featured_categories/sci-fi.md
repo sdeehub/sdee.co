@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Sci-Fiction
+title: Sci-Fi
 slug: sci-fi
 menu: true
 order: 3
