@@ -4,8 +4,8 @@ layout: post
 title: "ถ้าไม่รู้จะเริ่มยังไง ขอให้เริ่มด้วยความรู้สึกขอบคุณ"
 date: 2014-12-06 15:06:58 +0700
 description: >
-categories: [sdees]
-tags: [mindset, odd]
+categories: [life]
+tags: [mindset]
 ---
 <img src="/assets/img/authors/odd/2014-12-06/grateful.jpg" alt="Being grateful" style="border-radius:50%">
 

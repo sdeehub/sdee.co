@@ -5,8 +5,8 @@ title: "Selective Watering"
 date: 2015-04-14 22:23:58 +0700
 description: >
   TOGETHER WE ARE ONE – Thich Nhat Hanh
-categories: [sdees]
-tags: [mindset, odd]
+categories: [life]
+tags: [mindset, book]
 ---
 Darling, I promise to water only the seeds of happiness, compassion, and joy in you. And I will refrain from watering the seeds of jealousy, anger, and irritation in you. I know that if I water these seeds, you will suffer and I will have to suffer also. So I promise that from now on, I will only water the beautiful seeds in you, and I will refrain from watering the negative seeds. Please help me also. You know I have the seeds of anger, jealousy, despair, and craving in me. Please don’t water these seeds, but instead water the seeds of compassion, understanding, and hope in me. I will be grateful and happy. Let us make the commitment to support each other with the practice of selective watering.
 

@@ -5,8 +5,8 @@ title: "ไก่ทอดมีตำนาน"
 date: 2018-04-20 19:09:00 +0700
 description: >
       จะพูดถึงไก่ที่ใครๆ ก็ชอบ เพราะมันเป็นอาหารที่หากินง่ายและอร่อย เราเชื่อใครก็ต้องกินไก่ เราเองก็เป็นคนนึงที่ชอบกินไก่ แต่ไก่ที่ไหนล่ะที่จะมีตำนานความอร่อยที่ขึ้นชื่อและดังไปทั่วโลกเท่า KFC พูดถึง KFC หน้าลุงอ้วนผู้พันแซนเดอร์ที่ยิ้มๆ ก็ลอยมาเลย แต่ชีวิตลุงนี่ไม่ไก่เลยนะ
-categories: [reallife]
-tags: [lifestyle, kyo]
+categories: [life]
+tags: [lifestyle]
 comments: true
 ---
 <img src="/assets/img/authors/kyo/2018-04-20/KFC1.jpg" alt="Colonel Harland David Sanders" style="border-radius:50%">

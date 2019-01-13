@@ -5,8 +5,8 @@ title: "18 ไอเดียโปสเตอร์หนังที่ซ้
 date: 2018-06-01 15:50:00 +0700
 description: >
     วันนี้จะพาไปดูโปสเตอร์หนังที่เรียกว่าเอาของเก่ามาเล่นใหม่ วนไปจ้า ... ฮอลลีวูดนี่ก็หมดมุขเป็นเหมือนกัน
-categories: [reallife]
-tags: [design, kyo]
+categories: [life]
+tags: [design]
 comments: true
 ---
 ![Love & Comedy Posters Design](/assets/img/authors/kyo/2018-06-01/1.jpg)

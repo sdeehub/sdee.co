@@ -5,8 +5,8 @@ title: "แบบฝึกความคิด"
 date: 2018-06-26 17:35:00 +0700
 description: >
     แบบฝึกนี้สำหรับการฝึกความคิด ‣ ภายในเวลา 1 นาที ลองหลับตาแล้วคิดถึงสิ่งที่ดีงามต่างๆ เพียงแค่พูดคำต่างๆ เหล่านั้นขึ้นในสมองของเรา ลองดูสิว่าความคิดจะช่วยทำให้เรารู้สึกดีขึ้นได้มากแค่ไหนในชีวิตประจำวัน หรือในปัจจุบันขณะนั้นๆ นั่นเอง
-categories: [reallife]
-tags: [lifestyle, odd]
+categories: [life]
+tags: [mindset]
 comments: true
 ---
 <img src="/assets/img/authors/odd/2018-06-26/love-1808676_640.jpg" alt="Love Companionship Friendship Partnership" style="border-radius:50%"><sub><sup>ขอบคุณภาพของ: [johnhain ‣ pixabay](https://pixabay.com/en/users/johnhain-352999/)</sup></sub>

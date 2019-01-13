@@ -5,8 +5,8 @@ title: "What are you up to?"
 date: 2017-03-05 15:53:23 +0700
 description: >
   บทพูดในฉากสั้นๆ ของวันทำงานวันสุดท้ายของสัปดาห์ ‣ 'วันศุกร์' คือ วันที่เพื่อนๆ นักเรียนฝรั่งชาวอเมริกันชอบชวนและถามกันว่าค่ำนี้จะมาปาร์ตี้ด้วยกันกับพวกเรามั๊ย? Yes/No/Ok เอาไง? ลองดูๆ กันไป อาจจะไปได้ But thanks for inviting me anyway :)
-categories: [reallife]
-tags: [lifestyle, odd]
+categories: [life]
+tags: [lifestyle]
 ---
 <img src="/assets/img/authors/odd/2017-03-05/candy_ending_theme.jpg" alt="Candy Candy" style="border-radius:50%"><sub><sup>ที่มาภาพ: Candy Candy Ending Theme</sup></sub>
 

@@ -4,8 +4,8 @@ layout: post
 title: "ยอดพระกัณฑ์ไตรปิฎก"
 date: 2016-05-29 09:06:59 +0700
 description: >
-categories: [sdees]
-tags: [mantra, odd]
+categories: [life]
+tags: [mantra]
 ---
 ๑. อิติปิ โส ภะคะวา อะระหัง วะตะ โส ภะคะวา
 อิติปิ โส ภะคะวา สัมมาสัมพุทโธ วะตะ โส ภะคะวา

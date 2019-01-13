@@ -5,8 +5,8 @@ title: "ในคืนแบบนี้ (เท่านั้น)"
 date: 2018-04-04 10:49:00 +0700
 description: >
     ก่อนวันที่มันจะเกิด 'from dusk till dawn' - ช่วงวัน เวลา ที่เหมาะสมได้ถูกกำหนดขึ้นมา พร้อมกับ dress code ว่าทุกคนต้องใส่ยีนส์ไป เราพอจะจำได้เพียงแค่นี้ แต่ที่น่าคิด น่าสนใจถ้าเทียบกับสมัยนี้ก็คือว่าไอ้พวกการพูดคุย นัดหมาย กระจายข่าวในสมัยนั้นมันเกิดขึ้นได้ยังไง ในเมื่อเราไม่มี line ไม่มีมือถือ ไม่มี email ไม่มี social จะมีก็แต่ที่เที่ยวที่เป็นจุดหมายในคืนแบบนั้นของพวกเรา
-categories: [reallife]
-tags: [lifestyle, 80s, odd]
+categories: [life]
+tags: [lifestyle]
 comments: true
 ---
 <img src="/assets/img/authors/odd/2018-04-04/the-palace.jpg" alt="The Palace 80s" style="border-radius:50%">

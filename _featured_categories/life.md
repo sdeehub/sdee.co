@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Real.Life
+title: Life
 slug: life
 menu: true
 order: 1

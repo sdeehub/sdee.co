@@ -5,8 +5,8 @@ title: "สงกรานต์ปีนี้"
 date: 2018-04-14 09:46:00 +0700
 description: >
   ระหว่างรอให้ทุกอย่างเข้าที่ เข้าทาง … ระหว่างรอให้มีใครมานั่งอยู่ข้างๆ … ระหว่างรอให้สว่าง ให้มองเห็น … ระหว่างรอรถมารับกลับบ้าน … ระหว่างรอข้าวกระเพราไก่ ไข่ดาว … ระหว่างรอ บางสิ่ง บางอย่าง ‣ ฉันเห็น คุณ ในระหว่างรอ
-categories: [reallife]
-tags: [lifestyle, odd]
+categories: [life]
+tags: [lifestyle]
 comments: true
 ---
 <img src="/assets/img/authors/odd/2018-04-14/img_20140104_063605-001.jpg" alt="Morning at Vientiane" style="border-radius:50%">

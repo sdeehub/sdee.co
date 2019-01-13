@@ -5,8 +5,8 @@ title: "Osho กับ นกยูง"
 date: 2015-10-09 22:23:58 +0700
 description: >
   2 เรื่องสั้นๆ ของวันที่ 09 ตุลาคม 2015
-categories: [reallife]
-tags: [o2dd2em]
+categories: [life]
+tags: [wordpress]
 ---
 > The question is not whether life exists after death. The real question is whether you are alive before death. ~ Osho
 

@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Sex & Soul
+title: Sex 'N' Soul
 slug: sex
 menu: true
 order: 4

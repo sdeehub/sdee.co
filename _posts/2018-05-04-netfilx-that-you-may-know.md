@@ -5,8 +5,8 @@ title: "แหล่งรวมหนัง"
 date: 2018-05-04 15:33:00 +0700
 description: >
       ไม่มีไรทำก็หาหนังดู หาซีรีส์ดู แต่วันนี้สงสัยความเป็นมาของ Netflix อ่านแล้วแบบเห้ยก็ไม่ธรรมดานะความเป็นมาของ Netflix เนี่ย มาๆ มาอ่านกันจะได้มีแรงบันดาลใจ...
-categories: [reallife]
-tags: [lifestyle, kyo]
+categories: [life]
+tags: [lifestyle]
 comments: true
 ---
 <img src="/assets/img/authors/kyo/2018-05-04/n1.jpg" alt="Reed Hastings Netflix Founder" style="border-radius:50%">

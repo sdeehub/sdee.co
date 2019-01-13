@@ -5,8 +5,8 @@ title: "งานที่ยังไม่เสร็จสมบรูณ์
 date: 2018-04-29 21:38:00 +0700
 description: >
   วันนี้กลับไปที่งานที่เคยทำไว้ เป็นเรื่องที่เขียนไว้ใน Firebase ตอนนั้นกลับมาหัดเขียน Code ใหม่ๆ เริ่มใช้ JavaScript ทำอะไรต่ออะไรไว้บน Web App
-categories: [reallife]
-tags: [lifestyle, odd]
+categories: [life]
+tags: [lifestyle]
 comments: true
 ---
 เรื่องจึงมีอยู่ว่า ... เราจะกลับมาเป็นเหมือนเดิมกันได้มั๊ย?

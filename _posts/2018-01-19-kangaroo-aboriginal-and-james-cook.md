@@ -5,8 +5,8 @@ title: "Kangaroo ฉันไม่เข้าใจ"
 date: 2018-01-19 16:09:57 +0700
 description: >
     “ฉันไม่เข้าใจ” ในโลกนี้มันก็คงมีอยู่หลายเรื่องที่เรายังไม่เข้าใจใช่ไหม แต่วันนี้เราจะมาทำความเข้าใจในคำว่า “Kangaroo ฉันไม่เข้าใจ” คือยังไงมันเกี่ยวอะไร? กับจิงโจ้ หรือ แคงการู อ้าว!! มาอ่านกัน ...
-categories: [reallife]
-tags: [tidbit, kyo]
+categories: [life]
+tags: [tidbit]
 comments: true
 ---
 <img src="/assets/img/authors/kyo/2018-01-19/2.jpg" alt="Captain James Cook" style="border-radius:50%">
