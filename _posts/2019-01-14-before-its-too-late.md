@@ -26,7 +26,7 @@ comments: true
 
 และถ้าเบื่อเรื่องบนเตียง แล้วทำไมเราไม่ออกไปที่อื่นกัน? เช่น ระเบียง ห้องครัว ใต้ฝักบัว หรือที่ขั้นบันได - A real man doesn't make love to a million women. A real man makes love to one woman a million ways. เรื่องแบบนี้สิคือสิ่งที่ลูกผู้ชายอย่างเราต้องทำให้ได้ ถ้าพร้อมแล้วก็ลองใช้คำแนะนำเหล่านี้ดู
 
-- [เริ่มจาก 67 ท่าที่แนะนำโดย Ask Mem](https://www.askmen.com/dating/love_tip_250/274_love_tip.html)
+- [เริ่มจาก 67 ท่าที่แนะนำโดย Ask Men](https://www.askmen.com/dating/love_tip_250/274_love_tip.html)
 - [แล้วก็ 12 ท่ายากจาก Cosmopolitan](https://www.cosmopolitan.com/advanced-sex-positions/)
 - [ถัดมาเป็น 46 ท่าที่แนะนำว่าทุกคู่ควรได้ลองทำจาก WomansHealthMag.com](https://www.womenshealthmag.com/sex-and-love/a19943165/sex-positions-guide/)
 - [คราวนี้อีก 45 ท่าจาก MensHealth.com](https://www.menshealth.com/sex-women/a19547362/45-sex-positions-guys-should-know/)
