@@ -4,13 +4,16 @@ layout: post
 title: "ไก่ทอดมีตำนาน"
 date: 2018-04-20 19:09:00 +0700
 description: >
-      Colonel Harland David Sanders
-image: /sdee.co/assets/img/authors/kyo/2018-04-20/KFC1.jpg
+      KFC สาขาแรกในเมืองไทย - ที่มา: [catdumb.com](https://www.catdumb.com/16-things-dont-know-abt-kfc-064/)
+image: /sdee.co/assets/img/authors/kyo/2018-04-20/kfc.jpg
 categories: [life]
 tags: [lifestyle]
 comments: true
 ---
 จะพูดถึงไก่ที่ใครๆ ก็ชอบ เพราะมันเป็นอาหารที่หากินง่ายและอร่อย เราเชื่อใครก็ต้องกินไก่ เราเองก็เป็นคนนึงที่ชอบกินไก่ แต่ไก่ที่ไหนล่ะที่จะมีตำนานความอร่อยที่ขึ้นชื่อและดังไปทั่วโลกเท่า KFC พูดถึง KFC หน้าลุงอ้วนผู้พันแซนเดอร์ที่ยิ้มๆ ก็ลอยมาเลย แต่ชีวิตลุงนี่ไม่ไก่เลยนะ
+
+![Harland David Sanders](/sdee.co/assets/img/authors/kyo/2018-04-20/KFC1.jpg)
+*Harland David Sanders*
 
 ผู้พันแซนเดอร์ส หรือ พันเอกฮาร์แลนด์ เดวิด แซนเดอร์ส (Harland David Sanders) เกิดเมื่อวันที่ 9 กันยายน 1890 พ่อทำงานเป็นชาวสวนธรรมดา แต่ความไม่ธรรมดาก็เกิดขึ้นเมื่อพ่อแซนเดอร์สตายเมื่อตอนเขาอายุได้ 5 ขวบ หลังจากนั้นเขาก็ต้องรับผิดชอบในการเลี้ยงน้อง หาข้าวหาปลาให้น้องๆ กินเพราะว่าแม่ต้องออกไปทำงานที่โรงงานมะเขือเทศกระป่อง
 

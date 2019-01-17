@@ -4,13 +4,15 @@ layout: post
 title: "รู้จักอารมณ์สูญเสีย"
 date: 2018-06-29 16:46:00 +0700
 description: >
-    วันนี้เราจะมาพูดเรื่องสูญเสียของรักหรือเผชิญความผิดหวังร้ายแรงในช่วงอารมณ์ที่เปราะบางของชีวิต เรื่องที่เรียกกันว่า The 5 stages of grief
-image: /sdee.co/assets/img/authors/kyo/2018-06-29/5.jpg
+    Photo by [Iraj Beheshti](https://unsplash.com/@setarehshab) on [Unsplash](https://unsplash.com/)
+image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1547725128/iraj-beheshti-1149032-unsplash.jpg
 categories: [life]
 tags: []
 comments: true
 ---
-เมื่อคนเราเผชิญความผิดหวัง เผชิญข่าวร้าย ตกอยู่ในความโศกเศร้า จะต้องผ่านช่วงเวลา 5 ช่วง โดยแต่ละช่วงจะใช้เวลาไม่เท่ากันขึ้นอยู่กับจิตใจของแต่ละคน ...
+วันนี้เราจะมาพูดเรื่องสูญเสียของรักหรือเผชิญความผิดหวังร้ายแรงในช่วงอารมณ์ที่เปราะบางของชีวิต เรื่องที่เรียกกันว่า The 5 stages of grief - เมื่อคนเราเผชิญความผิดหวัง เผชิญข่าวร้าย ตกอยู่ในความโศกเศร้า จะต้องผ่านช่วงเวลา 5 ช่วง โดยแต่ละช่วงจะใช้เวลาไม่เท่ากันขึ้นอยู่กับจิตใจของแต่ละคน ...
+
+![Grief](/sdee.co/assets/img/authors/kyo/2018-06-29/5.jpg)
 
 *1. Denial (ปฏิเสธ)*
 

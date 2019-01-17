@@ -34,7 +34,7 @@ comments: true
 
 เพราะความรักไม่เคยเป็นเรื่องง่าย และความพยายามที่จะรักษาความรักเอาไว้ก็จำเป็นจะต้องแลกด้วยอะไรๆ ต่างๆ มากมายอยู่เหมือนกัน ยอมที่จะเปิดใจ ยอมที่จะกลับไป ยอมที่จะลองทำอะไรต่อมิอะไรด้วยกัน อีกสักครั้ง และอีกหลายๆ ครั้ง
 
-![Not perfect love](https://res.cloudinary.com/sdees-reallife/image/upload/e_shadow:40/v1547545219/ae5d9c508c4d3ca72ec909297ad34f8f.jpg)
+![Not perfect love](https://res.cloudinary.com/sdees-reallife/image/upload/v1547545219/ae5d9c508c4d3ca72ec909297ad34f8f.jpg)
 
 *ขอบคุณภาพจาก [Curiano.com](https://curiano.com/)*
 

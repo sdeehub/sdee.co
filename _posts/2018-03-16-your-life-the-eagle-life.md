@@ -4,13 +4,15 @@ layout: post
 title: "เรามีชีวิตเดียว"
 date: 2018-03-16 16:30:00 +0700
 description: >
-    The Eagle's Life
-image: /sdee.co/assets/img/authors/kyo/2018-03-16/B1.jpg
+    Photo by [Rachel Pfuetzner](https://unsplash.com/@rachpfuetz) on [Unsplash](https://unsplash.com/)
+image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1547723713/rachel-pfuetzner-395513-unsplash.jpg
 categories: [life]
 tags: [lifestyle]
 comments: true
 ---
 เคยได้ยินคำพูดในหนังเรื่อง Jumanji มันพูดว่า เราก็มีชีวิตเดียวอยู่แล้วนี่ ... อยู่ที่ว่าตอนนี้คุณเป็นใคร อยากเป็นอะไร ต้องการใช้ชีวิตยังไง นั้นแหละคือชีวิต มันทำให้นึกถึงเรื่อง ชีวิตนกอินทรีย์ที่พ่อเล่าให้ฟัง
+
+![Eagle](/sdee.co/assets/img/authors/kyo/2018-03-16/B1.jpg)
 
 ชีวิตนกอินทรีย์ ผู้ที่ได้ชื่อว่าเป็นราชาแห่งนกที่มีอายุยืนที่สุดในโลก มันมีชีวิตได้
 นานถึง 70 ปี  ภายใต้กรงเล็บที่ทรงพลังที่แข็งแกร่งมีเรื่องราว ชีวิตที่ผ่านพ้นวิกฤตต่างๆ
