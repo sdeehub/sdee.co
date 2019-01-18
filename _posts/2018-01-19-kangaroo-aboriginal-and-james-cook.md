@@ -4,13 +4,16 @@ layout: post
 title: "Kangaroo ฉันไม่เข้าใจ"
 date: 2018-01-19 16:09:57 +0700
 description: >
-    Captain James Cook
-image: /sdee.co/assets/img/authors/kyo/2018-01-19/2.jpg
+    Photo by [Sebastien Gabriel](https://unsplash.com/@sgabriel) on [Unsplash](https://unsplash.com/)
+image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1547772679/sebastien-gabriel-353369-unsplash.jpg
 categories: [life]
 tags: [tidbit]
 comments: true
 ---
 "ฉันไม่เข้าใจ" ในโลกนี้มันก็คงมีอยู่หลายเรื่องที่เรายังไม่เข้าใจใช่ไหม แต่วันนี้เราจะมาทำความเข้าใจในคำว่า "Kangaroo ฉันไม่เข้าใจ" คือยังไงมันเกี่ยวอะไร? กับจิงโจ้ หรือ แคงการู อ้าว!! มาอ่านกัน...
+
+![Captain James Cook](https://res.cloudinary.com/sdees-reallife/image/upload/r_10/v1547772446/2.jpg)
+*Captain James Cook*
 
 เคยได้อ่านเจอเรื่องนึงมันเป็นเรื่องของความเข้าใจผิดในคำว่า Kangaroo (แคงการูู) เมื่อปี 1770 มีนักสำรวจชาวตะวันตกมีชื่อว่ากัปตันเจมส์ คุก ได้เดินเรือค้นพบทวีปออสเตรเลียเป็นครั้งแรก และเขาพาลูกเรือเข้าประเทศ แล้วได้พบกับชาวอะบอริจิน ลูกเรือคนนึงของกัปตันเจมส์ คุก ได้ชี้ไปที่สัตว์ที่กระโดดไปมา มีขนใส่ลูกลงที่กระเป๋าหน้าท้อง เขาไม่รู้ว่าสัตว์ที่เห็นอยู่นั้นคืออะไร ก็เลยถามชาวอะบอริจินไป และชาวอะบอริจินได้ตอบกลับมาเป็นภาษาของเขาเองว่า Kangaroo (แคงการูู) ทำให้นักสำรวจชาวตะวันตกคิดว่าสัตว์ที่ตัวเองเห็นนั้นเรียกว่า Kangaroo (แคงการู)
 

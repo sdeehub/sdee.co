@@ -4,14 +4,16 @@ layout: post
 title: "บังเอิญเจอกฎของเมอร์ฟี่"
 date: 2018-02-02 16:09:57 +0700
 description: >
-    Edward A. Murphy Jr.
-image: /sdee.co/assets/img/authors/kyo/2018-02-02/edward-a-murphy-jr.jpg
-
+    Photo by [Ruslan Bardash](https://unsplash.com/@ruslanbardash) on [Unsplash](https://unsplash.com/)
+image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1547772270/ruslan-bardash-505659-unsplash.jpg
 categories: [life]
 tags: [tidbit]
 comments: true
 ---
 เคยได้ยินกฏของเมอร์ฟี่กันไหม? เราเพิ่งเคยได้ยินคือก็ตอนดูหนังเรื่อง Interstellar เป็นชื่อของนางเอกในเรื่องคือเมอร์ฟี่ เเต่เดี๋ยว! วันนี้ไม่ได้มาเล่าเรื่องหนังนะ เเล้วกฏพิสดารนี้เป็นยังไง? ‣ ลุยกันเลย...
+
+![Edward Murphy](https://res.cloudinary.com/sdees-reallife/image/upload/r_10/v1547771898/edward-a-murphy-jr.jpg)
+*Edward A. Murphy Jr.*
 
 กฏเมอร์ฟี่เป็นกฏที่ดังในหมู่ฝรั่ง กฏนี้กำเนิดขึ้นครั้งแรกที่ฐานทัพอากาศเอ็ดเวิร์ดส ในสหรัฐฯ ในปี 1949  ตอนนั้นรัฐบาลดำเนินโครงการ MX981 ซึ่งทดสอบว่าคนเราสามารถทนแรงที่เกิดจากความเร่งได้มากน้อยแค่ไหนในการชนกระแทก ในการทดสอบครั้งหนึ่ง เอ็ดเวิร์ด เอ. เมอร์ฟี่ (Edward A. Murphy Jr.) วิศวกรในโครงการได้พบว่า
 อุปกรณ์ตรวจวัดทั้งหมดถูกติดตั้งอย่างมั่วซั่วทำให้การทดสอบไม่ได้ผล เมอร์ฟี่จึงพูดโพล่งออกมา

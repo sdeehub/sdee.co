@@ -4,13 +4,16 @@ layout: post
 title: "คาถาบูชาพระสังกัจจายน์"
 date: 2018-01-18 09:53:54 +0700
 description: >
-    Katyayana - พระสังกัจจายน์
-image: /sdee.co/assets/img/authors/odd/2018-01-18/katyayana.jpg
+    Photo by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)
+image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1547773401/rawpixel-569617-unsplash.jpg
 categories: [life]
 tags: [mantra]
 comments: true
 ---
 พระสังกัจจายน์ หรือ คะเซ็นเน็น (Kasennen - ญี่ปุ่น) หรือ Mahā Kachchāyana ‣ พระมหากัจจายนะ (บาลี: มหากจฺจายน, สันสกฤต: มหากาตฺยายน) เป็นพระอรหันต์องค์หนึ่งในพระอสีติมหาสาวกของพระโคตมพุทธเจ้า ได้รับการยกย่องว่าเป็นเอตทัคคะในทางผู้อธิบายความย่อให้พิสดาร (อ้างจาก: [th.wikipedia](https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%B0))
+
+![Katyayana](https://res.cloudinary.com/sdees-reallife/image/upload/r_10/v1547772835/katyayana.jpg)
+*Katyayana - พระสังกัจจายน์*
 
 #### คาถาบูชา แบบ (1)
 
