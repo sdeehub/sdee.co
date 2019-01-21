@@ -1,52 +1,44 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
-# Change `author1` to your shortname.
-author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+# Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
+sdees:
+  name:              solution.dee
+  email:             team@sdee.co
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    **SDEE'sReal.Life** คือ พวกเราที่ชื่นชอบและหลงใหลในการเขียน `Writeln(Hello World!);`
+    เป็นชีวิตจิตใจ และ ได้ตัดสินใจที่จะใช้ชีวิตเติบโตต่อมาบนเส้นทางของการพัฒนาร่วมไปกับเทคโนโลยี IT
 
-    Open `_data/authors.yml` to edit this text.
-
-    [Download Free][kit]
-    -- or --
-    [Buy PRO][buy]
-
-    [kit]: https://github.com/qwtel/hydejack-starter-kit/archive/v8.0.0-beta.7.zip
-    [buy]: https://app.simplegoods.co/i/NATYVLYT
+    บริษัท **โซลูชั่น ดี** จำกัด คือ หน่วยธุรกิจที่ให้บริการในด้านการพัฒนา IT Solution ต่างๆ
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            /sdee.co/assets/img/authors/sdees/sdees_128x128.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            /sdee.co/assets/img/authors/sdees/sdees_128x128.jpg
+      2x:            /sdee.co/assets/img/authors/sdees/sdees_128x128.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         odd_daboss
+    github:          sdeesreallife
+    # email:           mailto:team@sdee.co
     # rss:             https://<url>/feed.xml
-    # facebook:        <username>
+    # facebook:        solutiondee
     # google:          <number>
     # vk:              <username>
-    # youtube:         <string_string_string>
+    youtube:         UCAoPCG-znzUqhE3yPWlTakw
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       sdees.lifequotes
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -57,7 +49,7 @@ author1:
     # steam:           <number>
     # reddit:          <username>
     # tumblr:          <username>
-    # pinterest:       <username>
+    pinterest:       odddaboss
     # foursquare:      <number>
     # yelp:            <string>
     # stackoverflow:   <number/username>
@@ -70,22 +62,99 @@ author1:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    # download:        <url>
+    # download:        https://github.com/qwtel/hydejack/archive/v6.6.1.zip
 
-# Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+# Group author represents SDEE's Real Life (without social media icons)
+reallife:
+  name:              SDEE'sReal.Life
+  email:             team@sdee.co
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    *SDEE'sReal.Life* ‣ พวกเราคือผู้ที่ชื่นชอบและหลงใหลในการเขียน `Writeln(Hello World!);`
+    เป็นชีวิตจิตใจ และ ได้ตัดสินใจที่จะใช้ชีวิตเติบโตต่อมาบนเส้นทางของการพัฒนาร่วมไปกับเทคโนโลยี IT
 
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
-  accent_color:      '#268bd2'
-  accent_image:
-    background:      '#202020'
-    overlay:         false
+    บริษัท *โซลูชั่น ดี* จำกัด คือ หน่วยธุรกิจที่ให้บริการในด้านการพัฒนา IT Solution ต่างๆ
+
+  # This photo will be used in the about section
+  picture:
+    path:            /sdee.co/assets/img/authors/reallife/reallife_128x128.jpg
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            /sdee.co/assets/img/authors/reallife/reallife_128x128.jpg
+      2x:            /sdee.co/assets/img/authors/reallife/reallife_128x128.jpg
+  social:
+    instagram:  sdees.reallife
+    github:     sdeesreallife
+    trello:     b/Ejsbkkz0/sdees-librarycd
+
+# Another author: Udomsak Odd
+odd:
+  name:         Udomsak Odd
+  email:        odd.daboss@sdee.co
+  about:        |
+    *Odd* :)‣ นักเดินทางตามฝันเคยพาครอบครัวขับรถกันข้ามประเทศๆ ปัจจุบันเปลี่ยนมาปั่นจักรยานเดินทางอยู่แค่แถวๆ บ้าน
+    อ่านหนังสือ ฝึกสมาธิ และจินตนาการถึง six-pack ที่ใกล้ความจริงมากขึ้นทุกวัน
+  picture:
+    path:       /sdee.co/assets/img/authors/odd/odd_128x128.jpg
+  social:
+    instagram:  odd_daboss
+    soundcloud: odd-daboss
+    github:     Odd-daBoss
+
+# Another author: ODD.DEEm (Wordpress)
+o2dd2em:
+  name:         ODD.DEE(m)
+  email:        odd.daboss@sdee.co
+  about:        |
+    *ODD.DEE(m)* ‣ The collection of 2015 - 2016 'o2dd2em' ‣ some interesting mini-blogs posted on Wordpress!
+  picture:
+    path:       /sdee.co/assets/img/authors/o2dd2em/o2dd2em_128x128.png
+  social:
+    instagram:  sdees.reading
+    github:     Odd-daBoss
+
+# Another author: Nisita Kop
+kop:
+
+# Another author: Jessadaporn X
+x:
+  name:         Jessadaporn Jampakaew
+  email:        jessadaporn@sdee.co
+  about:        |
+    *เอ็กซ์* ‣ Developer ที่รักสงบ รักอิสระ ชอบใช้ชีวิตอยู่คนเดียวในห้องของเมืองหลวง ฝันว่าสักวันคงได้กลับบ้านเกิด อยู่กับไร่นาอย่างมีความสุข
+  picture:
+    path:       /sdee.co/assets/img/authors/x/x_128x128.jpg
+  social:
+    github:     sdeesreallife
+    facebook:   x.jessadaporn
+# Another author: Man Promario
+man:
+
+# Another author: Tokyo Jes
+kyo:
+  name:         Tokyo Jes
+  email:        tokyojes@sdee.co
+  about:        |
+    *Tokyo Jes* ‣ จริงๆ เเล้วชื่อเกี๊ยว ส่วนเจสคือชื่อย่อของนามสกุล กราฟิกคืองานศิลปะที่ผสมผสานความคิดของเราออกมาเป็นภาพหรือเรื่องราวให้เราเห็น เเละไม่ว่าสิ่งใดที่เรามองเห็นมันก็สามารถออกเเบบได้เสมอ นั่นเป็นสิ่งที่ฉันชอบทำ...
+  picture:
+    path:       /sdee.co/assets/img/authors/kyo/kyo_128x128.jpg
+  social:
+    instagram:  whalewide
+    facebook:   tokyo.jes
+    github:     sdeesreallife
+
+# Another author: Udomsak Odd
+romeoow:
+  name:         Kraiangkrai Oow
+  email:        oowclub@gmail.com
+  about:        |
+    *RomeOow* (สมาชิก *โซลูชั่น ดี* ช่วงปี 2013-2016) ‣ Developer และ Backpacker นักเดินทางที่ชื่นชอบการเดินทาง ถ่ายรูป
+    อยู่ใกล้ชิดกับผู้คนแปลกหน้า และ ธรรมชาติแปลกตาอย่างเป็นกันเอง
+  picture:
+    path:       /sdee.co/assets/img/authors/romeoow/romeoow_128x128.jpg
+  social:
+    instagram:  romeoow
+    facebook:   alessandro.romeoow
+    github:     sdeesreallife
