@@ -31,7 +31,7 @@ description:           >
 # A shorter description for the sidebar.
 tagline:               >
   บจ. โซลูชั่น ดี • 328/139 ซอยสันนิบาตเทศบาล ถนนลาดพร้าว
-  แขวงจันทรเกษม เขตจตุจักร กรุงเทพฯ 10900 • Tax ID: 0105545002081
+  แขวงจันทรเกษม เขตจตุจักร กรุงเทพฯ 10900 ~ Photo by <a href="https://unsplash.com/@paulfrenzel">Paul Frenzel</a> on <a href="https://unsplash.com/">Unsplash</a>
 
 # A list of keywords for your blog
 keywords:              [เทคโนโลยี, ไอที, นักพัฒนา, โปรแกรม, การใช้ชีวิต, lifestyle, technology, IT, developer, web site, application, system, network, mobile]
@@ -39,7 +39,7 @@ keywords:              [เทคโนโลยี, ไอที, นักพ�
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/icons/reallife_128x128.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -72,7 +72,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/paul-frenzel-159408-unsplash.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
