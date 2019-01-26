@@ -6,8 +6,8 @@ date: 2018-08-24 13:08:00 +0700
 description: >
     Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1535108622/charles-deluvio-451760-unsplash.jpg
-categories: [life]
-tags: [lifestyle]
+categories: [sex]
+tags: [couple, chill]
 comments: true
 ---
 วันศุกร์เป็นวันที่ใครๆ ก็รู้สึกได้ว่าเป็นวันสบายๆ แต่เธอจะรู้มั๊ยว่าทุกๆ วันศุกร์ ที่นี่ของเราตั้งนาฬิกาปลุกไว้ด้วยเสียงเพลง ก็เพลงประจำตัวของวันศุกร์นั่นไง <sup><sub>[Friday I'm in love](https://www.youtube.com/watch?v=mGgMZpGYiy8) - The Cure</sub></sup>

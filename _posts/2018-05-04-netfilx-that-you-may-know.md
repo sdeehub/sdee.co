@@ -7,13 +7,13 @@ description: >
     Netflix Logo used from 2000 to 2014 - Source: [Wiki/Netflix](https://en.wikipedia.org/wiki/Netflix)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1547718087/1920px-Netflix_logo.svg.png
 categories: [life]
-tags: [lifestyle]
+tags: [bio]
 comments: true
 ---
 ไม่มีไรทำก็หาหนังดู หาซีรีส์ดู แต่วันนี้สงสัยความเป็นมาของ Netflix อ่านแล้วแบบเห้ยก็ไม่ธรรมดานะความเป็นมาของ Netflix เนี่ย มาๆ มาอ่านกันจะได้มีแรงบันดาลใจ...
 
 ![Reed Hastings](https://res.cloudinary.com/sdees-reallife/image/upload/r_10/v1547719572/n1.jpg)
-*Reed Hasting : Co-Founder, Chairman and CEO of Netflix*
+<sup><sub>*Reed Hasting : Co-Founder, Chairman and CEO of Netflix*</sub></sup>
 
 เมื่อปี 1997 Netflix ได้ก่อตั้งขึ้นโดย รี้ด เฮสติ้งส์ (Reed Hastings) กับ มาร์ก แรนดอฟ (Marc Randolph) แต่ก่อนที่รี้ด เฮสติ้งส์ ก่อตั้ง Netflix นั้น เขาได้จบปริญญาโทจากมหาวิทยาลัย Stanford ในสาขา AI หรือสาขาปัญญาประดิษฐ์ โดยเขาได้ก่อตั้งบริษัทที่ชื่อว่า Pure Software ในปี 1995 และถูกเข้าซื้อกิจการโดยบริษัท Rational Software ในปี 1997 ซึ่งเขาก็ได้นำเงินจากการขายกิจการแรกได้มาลงทุนต่อใน Netflix
 

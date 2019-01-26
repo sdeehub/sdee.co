@@ -36,7 +36,7 @@ comments: true
 
 ![Not perfect love](https://res.cloudinary.com/sdees-reallife/image/upload/v1547545219/ae5d9c508c4d3ca72ec909297ad34f8f.jpg)
 
-*ขอบคุณภาพจาก [Curiano.com](https://curiano.com/)*
+<sup><sub>*ขอบคุณภาพจาก [Curiano.com](https://curiano.com/)*</sub></sup>
 
 เราขอเป็นกำลังใจเล็กๆ ที่ยังเชื่อมั่นอยู่เสมอว่าครั้งหนึ่งได้เคยมีความรักที่ดีที่สุดได้เกิดขึ้นระหว่างคุณ 2 คน และความรักนั้นก็ยังมีอานุภาพมากพอที่จะพาคน 2 คนนั้นผ่านเวลาและอะไรต่างๆ นานาไปได้ร่วมกัน
 

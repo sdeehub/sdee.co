@@ -3,7 +3,7 @@
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 sdees:
   name:              solution.dee
-  email:             team@sdee.co
+  email:             odd.daboss@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,7 +26,7 @@ sdees:
   # Rearrange to change the order in which they appear
   social:
     twitter:         odd_daboss
-    github:          sdeesreallife
+    github:          sdeehub
     # email:           mailto:team@sdee.co
     # rss:             https://<url>/feed.xml
     # facebook:        solutiondee
@@ -38,7 +38,7 @@ sdees:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       sdees.lifequotes
+    instagram:       cpe.sdee.co
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>

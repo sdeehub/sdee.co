@@ -6,8 +6,8 @@ date: 2018-06-26 17:35:00 +0700
 description: >
     ขอบคุณภาพของ: [johnhain ‣ pixabay](https://pixabay.com/en/users/johnhain-352999/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1547607900/love-2515140_1920.jpg
-categories: [life]
-tags: [mindset]
+categories: [sex]
+tags: [mindful]
 comments: true
 ---
 แบบฝึกนี้สำหรับการฝึกความคิด ‣ ภายในเวลา 1 นาที ลองหลับตาแล้วคิดถึงสิ่งที่ดีงามต่างๆ เพียงแค่พูดคำต่างๆ เหล่านั้นขึ้นในสมองของเรา ลองดูสิว่าความคิดจะช่วยทำให้เรารู้สึกดีขึ้นได้มากแค่ไหนในชีวิตประจำวัน หรือในปัจจุบันขณะนั้นๆ นั่นเอง
@@ -15,16 +15,16 @@ comments: true
 ความสวยงาม ความสดชื่น รื่นรมย์ ความสุข โปร่งโล่งสบาย เบาและผ่อนคลาย สายน้ำใส ไหลไป ไหลไป เงียบๆ ท่ามกลางธรรมชาติ มีเสียงนก มีเสียงลม แดดอุ่นๆ น้ำเย็นๆ ตัวเราเบาสบาย ผ่อนคลาย สดชื่นเวลาที่หายใจเข้า ทิวเขา เมฆสวย ฟ้าใส สบายใจเวลาหายใจออก หายใจเข้าลึกและยาว หายใจออกเบาและสบาย
 
 ![Amy's Star Fish](/sdee.co/assets/img/authors/odd/2018-06-26/amy-humphries-227515-unsplash.jpg)
-<sub><sup>ขอบคุณภาพของ: [Amy Humphries ‣ Unsplash](https://unsplash.com/@amyjoyhumphries)</sup></sub>
+<sub><sup>Photo by [Amy Humphries](https://unsplash.com/@amyjoyhumphries) on [Unsplash](https://unsplash.com/)</sup></sub>
 
 ดอกไม้สีสวย กลิ่นหอม ชื่นใจ ลมพัดดอกไม้ส่งกลิ่นกระจาย ใบไม้ ต้นไม้ ล้อเล่นไปกับสายลม บางเบา อ่อนโยน นุ่มนวล เป็นส่วนหนึ่งของกันและกัน ชีวิตเจริญรุ่งเรือง งอกงาม มั่งคั่ง มั่นคง เติบโต เรียนรู้ มีประสบการณ์ ปลอดภัย อบอุ่น เต็มไปด้วยความรัก ความเมตตา และปรารถนาดีต่อตนเอง ต่อผู้อื่น และธรรมชาติทั้งมวล
 
 ![Dirty man’s hand holds a beautiful butterfly](/sdee.co/assets/img/authors/odd/2018-06-26/elijah-o-donell-715864-unsplash.jpg)
-<sub><sup>ขอบคุณภาพของ: [Elijah O'Donell ‣ Unsplash](https://unsplash.com/@elijahsad)</sup></sub>
+<sub><sup>Photo by [Elijah O'Donell](https://unsplash.com/@elijahsad) on [Unsplash](https://unsplash.com/)</sup></sub>
 
 สายฝนโปรยลงมา ส่งความชุ่มฉ่ำไปทั่ว ป่าสีเขียวสดชื่นสบายตา ท้องฟ้าสีฟ้าสดใส เมฆขาวมาจากไอน้ำ ความรักสามัคคี ปรองดอง กลมเกลียว ร่วมแรงร่วมใจ สร้างสรรค์ความคิดและผลงาน มีคุณค่า มีประสิทธิผล เกิดความก้าวหน้า พัฒนา ยั่งยืน สร้างความสุขไปทั่วถึงกัน อุดมสมบรูณ์ มากมายเป็นอนันต์ ธรรมชาติมีความสุขในความเป็นไปอยู่เสมอๆ
 
 ![Among waving grasses](/sdee.co/assets/img/authors/odd/2018-06-26/montse-monmo-82819-unsplash.jpg)
-<sub><sup>ขอบคุณภาพของ: [Montse Monmo ‣ Unsplash](https://unsplash.com/@monmo)</sup></sub>
+<sub><sup>Photo by [Montse Monmo](https://unsplash.com/@monmo) on [Unsplash](https://unsplash.com/)</sup></sub>
 
 รอยยิ้ม ร่างกายแข็งแรง จิตใจร่าเริง เบิกบาน เสียงหัวเราะและความสนุกสนาน ความคิดสร้างสรรค์ สีสันของการมีชีวิตและการเปลี่ยนแปลงไป กฎของการเกิด-แก่-เจ็บ-ตาย ความเป็นไปที่โอบล้อมชีวิตอย่างสมดุล หลับตารู้สึกถึงความขอบคุณ ซาบซึ้งอยู่ในใจ หายใจเข้าลึกและยาว หายใจออกบางเบาและเป็นสุข

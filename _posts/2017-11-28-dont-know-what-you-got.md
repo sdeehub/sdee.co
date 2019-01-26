@@ -6,8 +6,8 @@ date: 2017-11-28 10:50:20 +0700
 description: >
     Photo by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1547773758/rawpixel-804810-unsplash.jpg
-categories: [life]
-tags: [lifestyle]
+categories: [reading]
+tags: [knowledge, chill]
 comments: true
 ---
 มีใครรู้จักสำนวนไทยนี้กันมั๊ยครับ แล้วพอเห็นสำนวนนี้เข้าคุณๆ คิดว่าเราน่าจะกำลังพูดถึงเพลงอะไร? (บอกใบ้ๆ สำนวนไทยแต่ดันนึกไปถึงเพลงฝรั่ง) คำเฉลยของพวกเราจะอยู่ใน post นี้ ส่วนความเห็นของคุณๆ บอกกันได้ที่ comment ข้างใต้ ทายถูกไม่ถูกยังไงแต่เดี๋ยวจะหาของรางวัลให้ ใบ้เพิ่มอีกนิดว่ามาชวนกันกลับไปยุค '80s กัน!

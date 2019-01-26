@@ -6,8 +6,8 @@ date: 2018-07-13 10:18:59 +0700
 description: >
     Photo by [Iván Tejero](https://unsplash.com/@ywan) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1531451465/ivan-tejero-1700-unsplash.jpg
-categories: [life]
-tags: [mantra]
+categories: [reading]
+tags: [mindful]
 ---
 #### พระคาถาชินบัญชร
 *(ตั้งนะโม ๓ จบ) ปุตตะกาโมละเภปุตตัง ธะนะกาโมละเภธะนัง อัตถิกาเย กายะญายะ เทวานัง ปิยะตัง สุตตะวา อิติปิโส ภะคะวา ยะมะราชาโน ท้าวเวสสุวัณโณ มรณัง สุขัง อะระหังสุคะโต นะโมพุทธายะ*

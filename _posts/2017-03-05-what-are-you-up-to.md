@@ -5,12 +5,13 @@ title: "What are you up to?"
 date: 2017-03-05 15:53:23 +0700
 description: >
   บทพูดในฉากสั้นๆ ของวันทำงานวันสุดท้ายของสัปดาห์ - ก็ไม่แน่ใจนะว่า Friday, I'm (จะ) In Love เหมือนอย่างเคยมั๊ย
-categories: [life]
-tags: [lifestyle]
+categories: [sci-fi]
+tags: [couple, chill]
 ---
 ‣ 'วันศุกร์' คือ วันที่เพื่อนๆ นักเรียนฝรั่งชาวอเมริกันชอบชวนและถามกันว่าค่ำนี้จะมาปาร์ตี้ด้วยกันกับพวกเรามั๊ย? Yes/No/Ok เอาไง? ลองดูๆ กันไป อาจจะไปได้ But thanks for inviting me anyway :)
 
-<img src="/sdee.co/assets/img/authors/odd/2017-03-05/candy_ending_theme.jpg" alt="Candy Candy" style="border-radius:50%"><sub><sup>ที่มาภาพ: Candy Candy Ending Theme</sup></sub>
+![Candy Candy](https://res.cloudinary.com/sdees-reallife/image/upload/r_10/v1548497660/candy_ending_theme.jpg)
+<sub><sup>ที่มาภาพ: Candy Candy Ending Theme</sup></sub>
 
 เช้าวันศุกร์คนดูพลุกพล่าน เขายืนมองดูผู้คนผ่านออกมาจากช่องกระจกของประตูกั้นโซนของพนักงานด้านในส่วนหลังของโรงอาหาร เธอเองก็กำลังเดินผ่านโต๊ะ ผ่านผู้คนตรงเข้ามาทางประตูผลักทางเข้า แต่เขารู้ว่าเธอคงจะเดินมาเพื่อผ่านไปกดน้ำหวาน … เขารอ … ใช่ เธอเดินมาแค่ผ่านไปที่ตู้กดโซดา
 
@@ -29,3 +30,9 @@ tags: [lifestyle]
 ‘Ok That’s great. I have classes till quater to four.’ เธอยิ้มสดใสพูดแล้วก็ส่งกระดาษเช็ดปากให้
 
 ‘Ok I’ll give you a call then.’ เขาตอบและยิ้มให้ รับกระดาษเช็ดปากไปโดยไม่ต้องดูว่าเขียนอะไรไว้ ก่อนกลับเข้าไปทำงานต่อ
+
+> ว่าแต่ - *แล้วถ้าเรื่องทั้งหมดนี้จะเกิดขึ้นที่ฐานอวกาศ CDS.MU.960413 ขณะโคจรไปตาม Low Earth Orbit ล่ะ?*
+
+งั้นก็น่าจะจบว่า เธอตะโกนไม่ถึงกับดังคล้อยหลังเขาว่า 'See you around!'
+
+'Yeah right, see you at the deck.' เขาตอบพร้อมยกนิ้วโป้งให้โดยไม่ได้หันกลับมา

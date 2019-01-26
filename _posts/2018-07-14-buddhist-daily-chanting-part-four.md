@@ -6,8 +6,8 @@ date: 2018-07-14 13:51:59 +0700
 description: >    
       Photo by [Peter Hershey](https://unsplash.com/@peterhershey) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1531464532/peter-hershey-113988-unsplash.jpg
-categories: [life]
-tags: [mantra]
+categories: [reading]
+tags: [mindful]
 ---
 #### บทแผ่เมตตาแก่ตนเอง
 อะหัง สุขิโต โหมิ ⚬ ขอให้ข้าพเจ้าจงมีความสุข

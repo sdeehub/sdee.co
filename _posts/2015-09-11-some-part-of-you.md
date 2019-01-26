@@ -6,8 +6,8 @@ date: 2015-09-11 22:23:58 +0700
 description: >
     Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1531135602/patrick-tomasso-109607-unsplash.jpg
-categories: [life]
-tags: [wordpress]
+categories: [sex]
+tags: [chill]
 ---
 ความรู้สึกปะปน คิดถึงเพื่อนๆ และ คิดถึงคนที่อยู่ไกลๆ ออกไป ทำไมเราต้องมีขา ทำไมไม่อยู่กับที่ ทำไมชีวิตนี้ต้องมีเรื่องราวมากมาย และที่สำคัญ 'การจากไป และ การจากลา' ทำไมถึงได้เศร้านักนะบางที - เรื่องที่เก็บไว้ของ 2 วันนี้ (สับสน และ คิดถึง)
 

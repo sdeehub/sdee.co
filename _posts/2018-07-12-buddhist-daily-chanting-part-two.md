@@ -6,8 +6,8 @@ date: 2018-07-12 11:36:59 +0700
 description: >
     Photo by [Clifford Yeo](https://unsplash.com/@cliffordyeo) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1531371258/clifford-yeo-486416-unsplash.jpg
-categories: [life]
-tags: [mantra]
+categories: [reading]
+tags: [mindful]
 ---
 #### ชัยมงคลคาถา (พาหุงฯ)
 พาหุงสะหัสสะมะภินิมมิตะสาวุธันตัง ครีเมขะลัง อุทิตะโฆระสะเสนะมารัง ทานาทิธัมมะวิธินา ชิตะวา มุนินโท ตันเตชะสา <u>ภะวะตุ เม</u> ชะยะมังคะลานิ

@@ -6,8 +6,8 @@ date: 2015-09-10 10:23:58 +0700
 description: >
     Photo by [Jeremy Perkins](https://unsplash.com/@jeremyperkins) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1531132714/jeremy-perkins-271696-unsplash.jpg
-categories: [life]
-tags: [wordpress]
+categories: [sex]
+tags: [chill]
 ---
 2 วันนี้สับสน ปนกันแปลกๆ แต่อันนี้เลือกมาชุดนึงก่อน ก่อนที่จะ ... พอถึงเวลาก็จะจากกันไป - เรื่องที่เก็บไว้ของ 2 วันนี้ (ปนกัน)
 

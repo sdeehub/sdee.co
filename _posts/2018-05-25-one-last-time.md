@@ -7,7 +7,7 @@ description: >
     Photo by [Toni Cuenca](https://unsplash.com/@tonicuenca) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1547644608/toni-cuenca-391123-unsplash.jpg
 categories: [life]
-tags: [lifestyle]
+tags: [chill]
 comments: true
 ---
 ตอนนี้เวลา 11:44 หันไปหันมา หันกลับมาอีกทีเป็น 11:45 เวลาเดินอยู่ตลอดเวลา กว่าที่จะเขียนจบเรื่องนี้ก็ปาเข้าไป 5 ทุ่มกว่า ก็นั่นล่ะ! เวลากับความเปลี่ยนแปลงมักเกิดขึ้นคู่กันไปในแบบนั้น เหมือนเรากับจักรวาลและทุกๆ สิ่ง หรืออาจไม่ใช่แค่ของที่คู่กัน แต่เป็นส่วนหนึ่งของกันและกัน ... One Last Time

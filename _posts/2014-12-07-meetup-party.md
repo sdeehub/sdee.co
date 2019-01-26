@@ -7,7 +7,7 @@ description: >
     Photo by [Alexander Popov](https://unsplash.com/@5tep5) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1548069009/alexander-popov-339410-unsplash.jpg
 categories: [life]
-tags: [lifestyle]
+tags: [chill]
 ---
 คืนนี้ ตอนนี้ ผมลุกเดินออกไปมองฟ้า พระจันทร์เริ่มจะหม่นๆ ตรงด้านบนๆ สักหน่อยๆ แล้ว แต่ถ้าเป็นคืนเมื่อวานนี้พระจันทร์จะสวยเต็มดวง เป็นวันพระขึ้น 15 ค่ำเดือน 1 – ปกติทุกวันพระคุณแม่ผมก็จะไปวัด เมื่อวานก็ถือว่าแม่ไปวัดเป็นปกติ จะมีที่ไม่ปกติก็ผมนี่ล่ะที่เรียกว่านอนกินบ้านกินเมืองไม่ตื่นขึ้นมาขับรถไปส่งแม่ สำหรับเด็กสมัยนี้เค้าอาจพูดว่า “ก็ไม่รู้สินะ ตื่นมาแล้วไปวัด … เพื่อ? ไม่ไปเข้าวัดแต่ก็เป็นคนดี จบป่ะ?!” ส่วนผมไม่ไปวัด แต่ยังดันนัดสาวลูก 2 ไปปาร์ตี้ที่ Nest – Rooftop Lounge @ Le Fenix Hotel, Sukhumvit 11 … อืม … เป็นงั้นไป
 

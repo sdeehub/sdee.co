@@ -7,7 +7,7 @@ description: >
     Photo by [Rhendi Rukmana](https://unsplash.com/@rendisssta) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1548067567/rhendi-rukmana-193672-unsplash.jpg
 categories: [life]
-tags: [wordpress]
+tags: [chill]
 ---
 ช่วงนี้หน้าฝน ฝนตกบ่อยๆ ตอนเช้าอากาศเย็นสบาย ใบไม้-ต้นไม้เขียวสดชื่น ลานปูนหน้าบ้านมีตะไคร่ สีเขียวกับสีเทาเข้ากันได้ดี เหมือนเวลาที่เราต้องก้มๆ เงยๆ ก็มักจะปวดหลังแบบนี้เป็นธรรมดา
 

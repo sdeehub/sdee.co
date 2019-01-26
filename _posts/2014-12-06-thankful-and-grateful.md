@@ -7,11 +7,12 @@ description: >
     Photo by [Lisheng Chang](https://unsplash.com/@changlisheng) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1548069384/lisheng-chang-628794-unsplash.jpg
 categories: [life]
-tags: [mindset]
+tags: [mindful]
 ---
 ผมตั้งใจจะเขียน blog มานานแสนนาน แต่ก็ไม่รู้จะเริ่มยังไง และเมื่อไหร่เอาสักที
 
-![Being Grateful](/sdee.co/assets/img/authors/odd/2014-12-06/grateful.jpg)
+![Being Grateful](https://res.cloudinary.com/sdees-reallife/image/upload/r_10/v1548490146/grateful.jpg)
+<sup><sub>*จุดเทียนถวายพระพรชัย*</sub></sup>
 
 จนมาถึงวันนี้ วันที่ 6 ธันวาคม 2557 – 1 วัน หลังจากวันพ่อแห่งชาติ เป็นอีกครั้งที่ผมรู้สึกห่วงใยและคิดถึงพระมหากษัตริย์ ที่เป็นที่รักของผมและของชาวไทยทุกคนเป็นอย่างล้นพ้น
 

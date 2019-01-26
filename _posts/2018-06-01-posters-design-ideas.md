@@ -7,7 +7,7 @@ description: >
     Photo by [Florian Klauer](https://unsplash.com/@florianklauer) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1547644091/florian-klauer-415-unsplash.jpg
 categories: [life]
-tags: [design]
+tags: [knowledge]
 comments: true
 ---
 วันนี้จะพาไปดูโปสเตอร์หนังที่เรียกว่าเอาของเก่ามาเล่นใหม่ วนไปจ้า ... ฮอลลีวูดนี่ก็หมดมุขเป็นเหมือนกัน

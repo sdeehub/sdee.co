@@ -7,8 +7,8 @@ description: >
     Photo by [Tony Lam Hoang](https://unsplash.com/@tonylamhoang) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1548067938/tony-lam-hoang-156669-unsplash.jpg
 
-categories: [life]
-tags: [wordpress]
+categories: [sex]
+tags: [chill]
 ---
 2 เรื่องสั้นๆ ของวันที่ 09 ตุลาคม 2015
 

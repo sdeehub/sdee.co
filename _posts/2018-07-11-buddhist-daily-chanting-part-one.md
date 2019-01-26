@@ -6,8 +6,8 @@ date: 2018-07-11 11:38:59 +0700
 description: >
     Photo by [Amanda Flavell](https://unsplash.com/@aflavell) on [Unsplash](https://unsplash.com/)
 image: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_1024/v1531284156/amanda-flavell-21988-unsplash.jpg
-categories: [life]
-tags: [mantra]
+categories: [reading]
+tags: [mindful]
 ---
 #### บูชาพระรัตนตรัย
 อิมินาสักกาเรนะ พุทธัง อะภิปูชะยามิ ⚬ อิมินาสักกาเรนะ ธัมมัง อะภิปูชะยามิ ⚬ อิมินาสักกาเรนะ สังฆัง อะภิปูชะยามิ
