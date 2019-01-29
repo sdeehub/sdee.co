@@ -23,7 +23,8 @@ tags: [chill]
 
 ![Microphone](
 https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_400/v1531128452/hrayr-movsisyan-244767-unsplash.jpg)
-*Photo by [Hrayr Movsisyan](https://unsplash.com/@lincerta) on [Unsplash](https://unsplash.com/)*
+
+<sup><sub>*Photo by [Hrayr Movsisyan](https://unsplash.com/@lincerta) on [Unsplash](https://unsplash.com/)*</sub></sup>
 
 #### กำลังใจ (2015.10.16) {#story-3}
 “การให้กำลังใจสร้างนักเรียนได้ดีที่สุด”

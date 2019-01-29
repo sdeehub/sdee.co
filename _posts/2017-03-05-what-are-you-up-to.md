@@ -11,7 +11,8 @@ tags: [couple, chill]
 ‣ 'วันศุกร์' คือ วันที่เพื่อนๆ นักเรียนฝรั่งชาวอเมริกันชอบชวนและถามกันว่าค่ำนี้จะมาปาร์ตี้ด้วยกันกับพวกเรามั๊ย? Yes/No/Ok เอาไง? ลองดูๆ กันไป อาจจะไปได้ But thanks for inviting me anyway :)
 
 ![Candy Candy](https://res.cloudinary.com/sdees-reallife/image/upload/r_10/v1548497660/candy_ending_theme.jpg)
-<sub><sup>ที่มาภาพ: Candy Candy Ending Theme</sup></sub>
+
+<sup><sub>*ที่มาภาพ: Candy Candy Ending Theme*</sub></sup>
 
 เช้าวันศุกร์คนดูพลุกพล่าน เขายืนมองดูผู้คนผ่านออกมาจากช่องกระจกของประตูกั้นโซนของพนักงานด้านในส่วนหลังของโรงอาหาร เธอเองก็กำลังเดินผ่านโต๊ะ ผ่านผู้คนตรงเข้ามาทางประตูผลักทางเข้า แต่เขารู้ว่าเธอคงจะเดินมาเพื่อผ่านไปกดน้ำหวาน … เขารอ … ใช่ เธอเดินมาแค่ผ่านไปที่ตู้กดโซดา
 
@@ -19,7 +20,8 @@ tags: [couple, chill]
 ผ่านไปอีกสักพัก เธอเดินกลับมา สงสัยว่าคราวนี้ คือ อะไร? เขามองออกมาสบสายตา เธอยิ้มแล้วเดินตรงมาหา ผลักประตูชะโงกหน้าโผล่ข้ามเข้าไปข้างใน
 
 ![Napkin note](/sdee.co/assets/img/authors/odd/2017-03-05/note_400x200.jpg)
-<sub><sup>ที่มาภาพ: [www.littlethings.com/napkin-cop](https://www.littlethings.com/napkin-cop/) ‣ ขอขอบคุณสำหรับแรงบันดาลในคุณค่าของคำขอบคุณ</sup></sub>
+
+<sup><sub>*ที่มาภาพ: [www.littlethings.com/napkin-cop](https://www.littlethings.com/napkin-cop/) ‣ ขอขอบคุณสำหรับแรงบันดาลในคุณค่าของคำขอบคุณ*</sub></sup>
 
 ‘Hi! What are you up to tonight?’ เธอถามพร้อมกับยิ้มให้
 
