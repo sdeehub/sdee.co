@@ -20,7 +20,7 @@ comments: true
 ![80s Vibe](/assets/img/authors/odd/2017-11-28/80s-Vibe_400x200.jpg)
 เอานะ เอาแค่พอให้ค่อยได้หายคิดถึงกัน ถึงเวลาตอบคำถามประจำวันอย่างคลื่นวิทยุสมัยนั้นที่ชอบเล่นตั้งคำถามกันอย่างคลื่น Nite Spot กับ Radio Active - คำเฉลยของเราก็คือ: ถ้าคุณๆ รู้ว่าสำนวนนี้หมายความว่ายังไงก็จะง่ายๆ 'แกงจืดจึงรู้คุณเกลือ' เราขอนึกถึงเพลง ballad ที่ single released ออกมาตอน August 1988 ของวงที่ชื่อว่า:-
 
-![Cinderella](/assets/img/authors/odd/2017-11-28/Dontknowwhatyougot_singleart.jpg)
+![Cinderella](/sdee.co/assets/img/authors/odd/2017-11-28/Dontknowwhatyougot_singleart.jpg)
 > แกงจืดจึงรู้คุณเกลือ
 >
 > Don't Know What You Got (Till It's Gone)
