@@ -1,5 +1,5 @@
 ---
-author: odd
+author: reallife
 layout: post
 title: "ยอดพระกัณฑ์ไตรปิฎก"
 date: 2016-05-29 09:06:59 +0700

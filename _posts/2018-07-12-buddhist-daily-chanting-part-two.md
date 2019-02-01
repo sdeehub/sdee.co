@@ -1,5 +1,5 @@
 ---
-author: odd
+author: reallife
 layout: post
 title: "บทสวดมนต์ (๒)"
 date: 2018-07-12 11:36:59 +0700

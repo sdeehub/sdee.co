@@ -1,5 +1,5 @@
 ---
-author: odd
+author: reallife
 layout: post
 title: "แบบฝึกความคิด"
 date: 2018-06-26 17:35:00 +0700

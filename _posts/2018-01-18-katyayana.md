@@ -1,5 +1,5 @@
 ---
-author: odd
+author: reallife
 layout: post
 title: "คาถาบูชาพระสังกัจจายน์"
 date: 2018-01-18 09:53:54 +0700

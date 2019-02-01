@@ -79,11 +79,11 @@ reallife:
 
   # This photo will be used in the about section
   picture:
-    path:            /sdee.co/assets/img/authors/reallife/reallife_128x128.jpg
+    path:            /sdee.co/assets/img/authors/reallife/reallife_border_128x128.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /sdee.co/assets/img/authors/reallife/reallife_128x128.jpg
-      2x:            /sdee.co/assets/img/authors/reallife/reallife_128x128.jpg
+      1x:            /sdee.co/assets/img/authors/reallife/reallife_border_128x128.jpg
+      2x:            /sdee.co/assets/img/authors/reallife/reallife_border_128x128.jpg
   social:
     instagram:  sdees.reallife
     github:     sdeesreallife
