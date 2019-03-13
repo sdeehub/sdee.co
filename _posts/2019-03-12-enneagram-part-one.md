@@ -55,7 +55,7 @@ comments: true
 
 ![After Party](https://source.unsplash.com/SEFR62Upnqw)
 
-<sup><sub>Photo by [Todd Diemer](https://unsplash.com/@todd_diemer) on [Unsplash](https://unsplash.com/)</sub></sup>
+<sup><sub>Photo by [Todd Diemer](https://unsplash.com/@todd_diemer/400x253) on [Unsplash](https://unsplash.com/)</sub></sup>
 
 สถานการณ์: *หลังงานปาร์ตี้* ในความคิดของ:
 - *เพอร์เฟคชั่นนิสต์* - คำพูดของเราคงไม่ได้ทำให้เชอร์รี่ไม่พอใจนะ
