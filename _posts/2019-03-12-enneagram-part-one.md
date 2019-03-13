@@ -38,7 +38,7 @@ comments: true
 - *ผู้ปกป้อง* - ถ้าไปแล้วไม่มีไวน์ดีๆ ไม่มีบรรยากาศแจ่มๆ ก็ต้องรีบกลับก่อนล่ะ
 - *ผู้ประสานไมตรี* - ถ้าคืนนี้เราได้รู้จักเพื่อนดีๆ ก็เยี่ยมเลยนะ
 
-![Cuddle](https://source.unsplash.com/ZDN-G1xBWHY/400x200)
+![Party](https://source.unsplash.com/ZDN-G1xBWHY/400x267)
 
 <sup><sub>Photo by [Antenna](https://unsplash.com/@antenna) on [Unsplash](https://unsplash.com/)</sub></sup>
 
