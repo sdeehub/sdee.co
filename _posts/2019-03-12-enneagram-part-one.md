@@ -7,7 +7,7 @@ description: >
       Photo by [Ragnar Vorel](https://unsplash.com/@sonuba) on [Unsplash](https://unsplash.com/)
 image: https://source.unsplash.com/UBojlcpCkvw
 categories: [sci-fi]
-tags: [couple]
+tags: [knowledge]
 comments: true
 ---
 ผู้คนทั้งหมดบนโลก หรือประชากรโลกตอนนี้มีอยู่ทั้งหมดเท่าไหร่? แล้วพวกเรารู้มั๊ยว่าเราสามารถแบ่งผู้คนทั้งหมดบนโลกนี้ออกได้เป็นกี่แบบ ถ้าดูตามบุคลิกภาพพื้นฐาน
