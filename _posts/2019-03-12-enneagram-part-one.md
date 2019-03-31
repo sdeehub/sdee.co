@@ -30,7 +30,7 @@ comments: true
 ทีนี้เราลองมาดูว่าในสถานการณ์เดียวกัน คนในแต่ละลักษณ์จะมีความรู้สึกนึกคิดกันยังไง
 
 
-![People](https://source.unsplash.com/ABGaVhJxwDQ//400x267)
+![People](https://source.unsplash.com/ABGaVhJxwDQ/400x267)
 
 <sup><sub>Photo by [Timon Studler](https://unsplash.com/@derstudi) on [Unsplash](https://unsplash.com/)</sub></sup>
 
