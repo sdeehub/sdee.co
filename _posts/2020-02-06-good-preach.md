@@ -44,12 +44,8 @@ Be kind whenever possible. It is always possible ~ Dalai Lama
 
 ที่ทำผิดไปแล้ว ก็เลิกนึกถึง ถือแต่ว่าจะไม่ทำให้ผิดอีก จะไม่ผิดซ้ำอีก เท่านี้ก็พอแล้ว ไม่ต้องเอามาทรมานใจ ~ พุทธทาสภิกขุ
 
-Breathing in, I calm my body. Breathing out, I smile.
+Breathing in, I calm my body. Breathing out, I smile. Dwelling in the present moment, I know this is a wonderful moment. ~ Thich Nhat Hahn
 
-Dwelling in the present moment, I know this is a wonderful moment. ~ Thich Nhat Hahn
+เราไปยึดเอาสุข ก็เลยเป็นสุข เราไปยึดเอาทุกข์ มันก็เป็นทุกข์ - เพราะฉะนั้นเราต้องสงบนิ่งอยู่ อย่าไปโอนเอียงไปนั่นไปนี่ ให้ตั้งอยู่ที่ *พุทโธ* คือ ผู้รู้อยู่ภายใน ~ หลวงปู่ฝั้น อาจาโร
 
-เราไปยึดเอาสุข ก็เลยเป็นสุข เราไปยึดเอาทุกข์ มันก็เป็นทุกข์ - เพราะฉนั้นเราต้องสงบนิ่งอยู่ อย่าไปโอนเอียงไปนั่นไปนี่ ให้ตั้งอยู่ที่ พุทโธ คือ ผู้รู้อยู่ภายใน ~ หลวงปู่ฝั้น อาจาโร
-
-> Be faithful in small things because it is in them that your strength lies
-
-~ Mother Teresa
+> Be faithful in small things because it is in them that your strength lies ~ Mother Teresa
