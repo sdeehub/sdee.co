@@ -34,11 +34,11 @@ comments: true
 
 ![Running for Something Posters Design](/sdee.co/assets/img/authors/kyo/2018-06-01/6.jpg)
 
-อันที่ 6 ตัวเอกต้องวิ่งเพื่ออะไรสักอย่าง พื้นเอียงๆ โทนออกมืดๆ ฟ้าๆ เขียวๆ
+อันที่ 6 ตัวเอกต้องวิ่งเพื่ออะไรสักอย่าง พื้นเอียง ๆ โทนออกมืด ๆ ฟ้า ๆ เขียวๆ
 
 ![In the Sea Posters Design](/sdee.co/assets/img/authors/kyo/2018-06-01/7.jpg)
 
-อันที่ 7 หัวใหญ่ๆ หน่อย และก็ลอยอยู่บนทะเล
+อันที่ 7 หัวใหญ่ ๆ หน่อย และก็ลอยอยู่บนทะเล
 
 ![Turning Posters Design](/sdee.co/assets/img/authors/kyo/2018-06-01/8.jpg)
 
@@ -46,7 +46,7 @@ comments: true
 
 ![Red Posters Design](/sdee.co/assets/img/authors/kyo/2018-06-01/9.jpg)
 
-อันที่ 9 พื้นหลังแดงๆ ตัดกับวัตถุสีดำๆ ตัวหนังสือขาว
+อันที่ 9 พื้นหลังแดง ๆ ตัดกับวัตถุสีดำ ๆ ตัวหนังสือขาว
 
 ![Yellow Posters Design](/sdee.co/assets/img/authors/kyo/2018-06-01/10.jpg)
 
