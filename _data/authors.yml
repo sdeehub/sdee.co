@@ -67,7 +67,7 @@ sdees:
 # Group author represents SDEE's Real Life (without social media icons)
 reallife:
   name:              SDEE'sReal.Life
-  email:             team@sdee.co
+  email:             odd.daboss@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -85,21 +85,21 @@ reallife:
       1x:            /sdee.co/assets/img/authors/reallife/reallife_border_128x128.jpg
       2x:            /sdee.co/assets/img/authors/reallife/reallife_border_128x128.jpg
   social:
-    instagram:  sdees.reallife
+    instagram:  cpe.sdee.co
     github:     sdeesreallife
     trello:     b/Ejsbkkz0/sdees-librarycd
 
 # Another author: Udomsak Odd
 odd:
   name:         Udomsak Odd
-  email:        odd.daboss@sdee.co
+  email:        odd.daboss@gmail.com
   about:        |
     *Odd* :)‣ นักเดินทางตามฝันเคยพาครอบครัวขับรถกันข้ามประเทศ ๆ ปัจจุบันเปลี่ยนมาปั่นจักรยานเดินทางอยู่แค่แถว ๆ บ้าน
     อ่านหนังสือ ฝึกให้อยู่กับลมหายใจ และจินตนาการถึง six-pack ที่ใกล้ความจริงมากขึ้นทุกวัน
   picture:
     path:       /sdee.co/assets/img/authors/odd/odd_128x128.jpg
   social:
-    instagram:  odd_daboss
+    instagram:  odod.opop
     soundcloud: odd-daboss
     github:     Odd-daBoss
 
