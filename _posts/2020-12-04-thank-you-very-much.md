@@ -12,9 +12,9 @@ comments: true
 ---
 เช้านี้อากาศเย็นสบาย หายใจเข้า-ออกสดชื่น ขอบคุณเช้าที่สดใส ขอบคุณเช้าที่อากาศเย็นสบาย ขอบคุณเดือนธันวาฯ ปีใหม่ใกล้เข้ามา ขอบคุณชีวิต ขอบคุณการเปลี่ยนแปลง ขอบคุณความเป็นไป ขอบคุณร่างกายและวันเวลา
 
-กำลังจะปีใหม่อายุจะมากขึ้นอีกหน่อยมั๊ย? - ยิ้ม / กำลังจะปีใหม่ดูแลตัวเองกันหน่อยมั๊ย? - ยิ้ม / กำลังจะปีใหม่มีอะไร ๆ ที่ผ่านมาให้พวกเราคิดถึงกันมั๊ย? - ยิ้ม
+กำลังจะปีใหม่อายุจะมากขึ้นอีกหน่อยมั๊ย? - ยิ้ม / กำลังจะปีใหม่ดูแลตัวเองกันหน่อยมั๊ย? - ยิ้ม / กำลังจะปีใหม่มีอะไร ๆ ที่ผ่านมาพาให้พวกเรายังคิดถึงกันมั๊ย? - ยิ้ม
 
-> Thank you for being the reason I smile. Thank you for being you and here's to those who inspire you and don't even know it.
+> Thank you for being the reason I smile. Thank you for being you and here's to those who inspire us and you don't even know it.
 
 ขอบคุณสำหรับทุก ๆ อย่าง ขอบคุณทุก ๆ ประสบการณ์ ขอบคุณการเดินทาง ขอบคุณการทำงาน ทั้ง onsite offsite ทั้ง WFH และ Work far away from home
 
@@ -27,7 +27,7 @@ comments: true
 - ขอบคุณเครื่อง Huawei - ในแบบที่ไม่มี Google Apps
 - ขอบคุณ Router และ
 - Hi-Speed internet ทั้งมีสายและไร้สาย
-- ขอบคุณ Server ทั้งตัวเป็น ๆ และที่ไม่เป็นตัวให้เห็นแต่ไป VPN กันบน Cloud
+- ขอบคุณ Server ทั้งตัวเป็น ๆ และที่ไม่มีตัวให้เห็นแต่ไป VPN กันบน Cloud
 - ขอบคุณ Ubuntu, Elementary OS และ Windows
 
 > If you are quiet enough, you will hear the flow of the universe. You will feel its rhythm. Go with this flow. Happiness lies ahead. Meditation is key.
@@ -39,7 +39,7 @@ comments: true
 ขอบคุณอาหาร และ การออกกำลังกาย:
 - ขอบคุณไข่ต้ม
 - ขอบคุณผัก ผลไม้
-- ขอบคุณแป้ง น้ำตาล และเนื้อสัตว์ที่พยายามลดให้ได้
+- ขอบคุณแป้ง น้ำตาล และเนื้อสัตว์ที่กำลังตั้งใจลดให้ได้
 - ขอบคุณ Freeletics
 - ขอบคุณ HIIT
 - ขอบคุณโยคะ
@@ -56,7 +56,7 @@ comments: true
 - ขอบคุณเมื่อหัวถึงหมอน
 - ขอบคุณลมหายใจ
 
-> Everything that has a beginning has an ending. Make your peace with that and all will be well. Purity or impurity depends on oneself. No one can purify another.
+> Everything that has a beginning has an ending. Make your peace with that and all will be well. - Purity or impurity depends on oneself. No one can purify another.
 
 ตั้งใจใหม่เพราะใกล้จะปีใหม่ ก่อนเข้านอนทุกวัน ทบทวน อภัย อยู่กับลมหายใจ เข้าและออก ขอบคุณวันนี้ ขอบคุณวัน-เวลา เรื่องราว ผู้คน สถานการณ์ที่ผ่านเข้ามา และผ่านกันไป ขอบคุณลมหายใจที่เข้ามาและออกไป
 
